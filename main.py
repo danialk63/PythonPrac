@@ -58,4 +58,19 @@ print(str.lower())
 print(str.upper())
 print(str.replace("AHMAD", "AHMAD KHALID"))
 
+#List slicing
+numbers = [2,4,6,8,10]
+#print(numbers[0:5:1])
+#numbers.sort()
+#numbers.reverse()
+#numbers.append(15)
+#numbers.append(16) #Append is for add number in the last
+#numbers.insert(1,55) # Insert is for add number in any index
+#numbers.remove(8)
+#numbers.pop() # pop is for remove number in the last
+print(numbers)
+
+#print(max(numbers))
+#print(min(numbers))
+
 
