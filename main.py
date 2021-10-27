@@ -68,9 +68,14 @@ numbers = [2,4,6,8,10]
 #numbers.insert(1,55) # Insert is for add number in any index
 #numbers.remove(8)
 #numbers.pop() # pop is for remove number in the last
-print(numbers)
+#print(numbers)
 
 #print(max(numbers))
 #print(min(numbers))
 
+
+#Tuple -> Tuple cannot be change its immutable
+tp = (1,2,3)
+#tp[1] = 8
+print(tp)
 
