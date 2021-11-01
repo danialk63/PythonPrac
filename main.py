@@ -79,3 +79,9 @@ tp = (1,2,3)
 #tp[1] = 8
 print(tp)
 
+#Dictionary
+
+print("Welcome to Dictionary")
+dict = {"set" : "Collection of well defined objects", "information":"Meaningful data", "crowd":"Collection of many people"}
+inp = input()
+print(dict[inp])
