@@ -81,7 +81,10 @@ print(tp)
 
 #Dictionary
 
-print("Welcome to Dictionary")
-dict = {"set" : "Collection of well defined objects", "information":"Meaningful data", "crowd":"Collection of many people"}
-inp = input()
-print(dict[inp])
+# print("Welcome to Dictionary")
+# dict = {"set" : "Collection of well defined objects", "information":"Meaningful data", "crowd":"Collection of many people"}
+# inp = input()
+# print(dict[inp])
+
+
+
